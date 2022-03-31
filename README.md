@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/naura1835/Interactive-rating-component)
+- Live Site URL: [site URL](https://naura1835.github.io/Interactive-rating-component/)
 
 ## My process
 
